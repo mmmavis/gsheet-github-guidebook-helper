@@ -4,4 +4,3 @@ log/
 .DS_Store
 *.env
 defaults.env
-github-issues.json
